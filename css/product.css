@@ -16,7 +16,7 @@
 }
 .more{
     font-weight: 500;
-    font-size: 5rem;
+    font-size: 4rem;
     color: var(--helper-color);
     margin: 0 auto;
     padding-top: 18%;
@@ -33,5 +33,8 @@
         display: grid;
         grid-template-columns: 1fr;
         gap: 1rem;
+    }
+    .more{
+        font-size: 5rem;
     }
 }
