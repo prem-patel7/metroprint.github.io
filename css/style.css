@@ -629,6 +629,10 @@ free delivery
     .top{
         height: 4.5rem;
     }
+    .top .call-div{
+        font-size: 2.7rem;
+        font-weight: 500;
+    }
 }
 
 /* @media (max-width:809px) {
