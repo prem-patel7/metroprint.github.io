@@ -440,7 +440,13 @@ free delivery
 }
 
 .bio-img {
+    display: flex;
     justify-self: center;
+    justify-content: center;
+    align-items: center;
+}
+.bio-img img{
+    width: 56%;
 }
 
 .section-bio-data {
