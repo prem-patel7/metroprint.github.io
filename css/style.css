@@ -605,6 +605,13 @@ free delivery
         /* 1 rem = 9px */
         /* font-size: 43.75%; 1 rem = 7px */
     }
+    .top{
+        height: 4.5rem;
+    }
+    .top .call-div{
+        font-size: 2.7rem;
+        font-weight: 500;
+    }
 }
 
 @media (max-width:1140px) {
@@ -618,6 +625,13 @@ free delivery
     }
     .para{
         font-size: 2rem;
+    }
+    .top{
+        height: 4.5rem;
+    }
+    .top .call-div{
+        font-size: 2.7rem;
+        font-weight: 500;
     }
 }
 
