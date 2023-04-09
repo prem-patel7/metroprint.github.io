@@ -34,7 +34,4 @@
         grid-template-columns: 1fr;
         gap: 1rem;
     }
-    .more{
-        font-size: 5rem;
-    }
 }
